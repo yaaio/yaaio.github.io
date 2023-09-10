@@ -1,10 +1,11 @@
-
-
-		var xOff = 5;
-		var yOff = 5;
-		var xPos = 400;
-		var yPos = -100;
-		var flagRun = 1;
+var audio = new Audio('youare.mp3');
+audio.loop = false;
+audio.play(); 
+var xOff = 5;
+var yOff = 5;
+var xPos = 400;
+var yPos = -100;
+var flagRun = 1;
 
 function openWindow(url){
         aWindow = window.open(url,"_blank", 'menubar=no,status=no,toolbar=noresizable=no,width=180,height=175,titlebar=no,alwaysRaised=yes');
