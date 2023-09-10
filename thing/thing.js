@@ -12,12 +12,12 @@ function openWindow(url){
 }
 
 function procreate(){
-		openWindow('https://yaaio.github.io/thing/thing.html');
-		openWindow('https://yaaio.github.io/thing/thing.html');
-		openWindow('https://yaaio.github.io/thing/thing.html');
-		openWindow('https://yaaio.github.io/thing/thing.html');
-		openWindow('https://yaaio.github.io/thing/thing.html');
-		openWindow('https://yaaio.github.io/thing/thing.html');
+		openWindow('https://yaaio.github.io/thing/index.html');
+		openWindow('https://yaaio.github.io/thing/index.html');
+		openWindow('https://yaaio.github.io/thing/index.html');
+		openWindow('https://yaaio.github.io/thing/index.html');
+		openWindow('https://yaaio.github.io/thing/index.html');
+		openWindow('https://yaaio.github.io/thing/index.html');
 		}
 
 function newXlt(){
