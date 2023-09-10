@@ -1,5 +1,8 @@
+flagRun=1;
+playBall();
+return true;
 var audio = new Audio('https://yaaio.github.io/thing/youare.mp3');
-audio.loop = false;
+audio.loop = true;
 audio.play(); 
 var xOff = 5;
 var yOff = 5;
